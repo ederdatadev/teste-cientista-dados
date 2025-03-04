@@ -1,0 +1,19 @@
+Pergunta,Categoria
+"Quais as 3 subcategorias de eletrônicos que mais utilizaram cartão de crédito como pagamento?",subcategorias_cartao
+"Quais as categorias vendidas em maior quantidade?",categorias_mais_vendidas
+"Quais as subcategorias com maior valor médio por item?",subcategorias_valor_medio
+"Quais os 2 métodos de pagamento mais utilizados?",metodos_pagamento
+"Qual o lucro médio por categoria de produto?",lucro_medio_categoria
+"Quais os 3 produtos que tiveram maior prejuízo (profit negativo)?",produtos_maior_prejuizo
+"Qual subcategoria teve mais pedidos únicos?",subcategorias_mais_pedidos_unicos
+"Qual subcategoria gerou mais lucro total?",subcategoria_mais_lucrativa
+"Qual o ticket médio por método de pagamento?",ticket_medio_pagamento
+"Qual o melhor produto?",resposta_padrao
+"Quais produtos mais bem avaliados?",resposta_padrao
+"Quando chega x produto?",resposta_padrao
+"Quais os 2 métodos de pagamento mais utilizados?",metodos_pagamento
+"Quais são os métodos de pagamento mais comuns?",metodos_pagamento
+"Quais são as formas de pagamento mais usadas?",metodos_pagamento
+"Quais os métodos de pagamento preferidos?",metodos_pagamento
+"Quais são os dois meios de pagamento mais escolhidos?",metodos_pagamento
+
